@@ -18,6 +18,7 @@
 		BBD80CBC279207BA002B0AE4 /* HeroCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD80CBB279207BA002B0AE4 /* HeroCell.swift */; };
 		BBD80CBE279207E1002B0AE4 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD80CBD279207E1002B0AE4 /* Constant.swift */; };
 		BBD80CC227920FAC002B0AE4 /* UIFont+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD80CC127920FAC002B0AE4 /* UIFont+Extension.swift */; };
+		BBD80CC42792A252002B0AE4 /* HeaderSupplementaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD80CC32792A252002B0AE4 /* HeaderSupplementaryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		BBD80CBB279207BA002B0AE4 /* HeroCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroCell.swift; sourceTree = "<group>"; };
 		BBD80CBD279207E1002B0AE4 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 		BBD80CC127920FAC002B0AE4 /* UIFont+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIFont+Extension.swift"; sourceTree = "<group>"; };
+		BBD80CC32792A252002B0AE4 /* HeaderSupplementaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderSupplementaryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				BBD80CB627920705002B0AE4 /* AppCell.swift */,
 				BBD80CBB279207BA002B0AE4 /* HeroCell.swift */,
+				BBD80CC32792A252002B0AE4 /* HeaderSupplementaryView.swift */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				BBD80CB22792018A002B0AE4 /* AppsViewController.swift in Sources */,
 				BBD80C9E279200C8002B0AE4 /* SceneDelegate.swift in Sources */,
 				BBD80CC227920FAC002B0AE4 /* UIFont+Extension.swift in Sources */,
+				BBD80CC42792A252002B0AE4 /* HeaderSupplementaryView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
