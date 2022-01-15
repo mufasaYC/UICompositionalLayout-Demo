@@ -1,7 +1,4 @@
 //
-//  AppDelegate.swift
-//  Compositional Layout Demo
-//
 //  Created by Mustafa Yusuf on 15/01/22.
 //
 
